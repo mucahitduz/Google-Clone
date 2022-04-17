@@ -82,13 +82,6 @@
   flex-direction: row;
 }
 
-.voice {
-  height: 24px;
-  width: 24px;
-  background-size: 24px;
-  vertical-align: middle;
-}
-
 .voice-search-img {
   flex: 1 0 auto;
   display: flex;
